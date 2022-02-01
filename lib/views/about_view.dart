@@ -142,14 +142,14 @@ class _AboutViewState extends State<AboutView>
 
   Widget infoText() {
     return Text(
-      'Currently, I am persuing B.Tech in CSE '
-      'deparment from Indian Institute of Information Technology, Lucknow.'
+      'Currently, I am persuing B.Tech via CSE '
+      'from Indian Institute of Information Technology, Lucknow.'
       'I am energetic and enthusiastic person in the field of Technology, especially in Mobile Application Developement. '
-      'I build mobile apps using trending technology flutter and dart,'
-      'Naah, I am not expert using this framework and language but at '
-      'intermediate level and can try out some fantastic apps.'
-      'I also love contributing to Open Source and public projects.'
-      '\n\n\nSkills- JAVA, DART, C, Flutter, Firebase, Git/Github, API,'
+      'I can build mobile apps using trending technology flutter and dart.'
+      '\n     Naah, I am not expert using this framework and language but at '
+      'intermediate level and can build fantastic apps.'
+      'I also love contributing Open Source and public projects.'
+      '\n\n\nSkills- C++, JAVA, Dart, C, Flutter, Firebase, Git/Github, API,'
       '\n\nHobbies- Photography, Cycling, Reading, Travelling ',
       overflow: TextOverflow.clip,
       style: ThemeSelector.selectBodyText(context),

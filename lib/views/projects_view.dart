@@ -60,28 +60,24 @@ class _ProjectsViewState extends State<ProjectsView> {
             "app, soon add new features !!"
             " "),
     Project(
-        title: 'Blog App',
+        title: 'College Event Management',
         imageURL: 'project3.jpg',
-        description:
-            "Blog App is flutter and dart based app that helps bloggers to "
-            "write his/her blogs and keep it safe and secure. Developing "
-            "Flutter Blog App using Fire-base real time database and Firebase authentication\n\nBlog App "
-            "includes -\n\n1) flutter firebase sign in, signout, and sign "
-            "up using Firebase Authentication.\n2) App allow users to "
-            "Add, Update, Delete New Posts using Firebase Real Time "
-            "Database\n3) Fetch users posts from Firebase database and "
-            "display it on home page\n4) Flutter Login Page & Flutter "
-            "Register Page for our android and iOS blog app with firebase"
-            " database which we are developing using flutter with "
-            "firebase real  time database.\n5) we created and design home"
-            " page for  our flutter blog app using firebase database and "
-            "firebase authentication. \n6) we created create a alert "
-            "dialog  box for displaying firebase authentication errors in"
-            " case  of invalid inputs.\n7) we created upload image file "
-            "from where  we will allow user to update a new blog post."
-            "\n8) we allow  users to upload image to firebase using "
-            "flutter.\n9) the flutter  blog app we will retrieve posts "
-            "from database  and display it on home page "),
+        description: "College Event Management System is a "
+            "platform for event management, whether it is event details to be seen "
+            "by the user or the overall event control by the admin, it"
+            " provides a platform for both the end-users to stay tuned with the "
+            "events. A platform"
+            "where people admin can host their events and promote them for the "
+            "students within the institute\n\n  "
+            "Features includes -\n\n1)There will be three users - admin, club, and students"
+            "Clubs can open an event in the system and manage it."
+            "\n2) The created event will be sent to the admin for permission."
+            "\n3) SMS or Mail of the event can be sent to registered students."
+            "\n4) List and details of past, present, and future events along with RSVP."
+            "\n5) Blog on events can also be submitted and displayed regarding a "
+            "particular event."
+            "\n6) There will be other events sections where events from other colleges "
+            "are visible. "),
   ];
 
   @override

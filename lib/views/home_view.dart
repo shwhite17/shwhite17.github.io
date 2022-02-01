@@ -106,7 +106,7 @@ class _HomeViewState extends State<HomeView> {
             fontSize: fontSize,
             fontFamily: 'DMSerifDisplay'),
         children: <TextSpan>[
-          //TextSpan(text: ' !!'),
+          //TextSpan(text: ' !!')
           TextSpan(
               //padding: Padding(
               text: 'Welcome to Portfolio',
@@ -118,7 +118,7 @@ class _HomeViewState extends State<HomeView> {
               text: "!!\n",
               style: TextStyle(color: Colors.white, fontSize: 46)),
           TextSpan(
-              text: "\nI am Shweta Singh, \nPre-final year Student\n",
+              text: "\nShweta Singh, \nPre-final year Student\n",
               style: TextStyle(fontSize: 20, color: Colors.white)),
           TextSpan(
               text: "B.Tech(CSE), IIIT Lucknow",
